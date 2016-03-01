@@ -1,0 +1,29 @@
+[Eagle]
+Version="07 02 00"
+Platform="Windows"
+Serial="6508369B3F-LSR-WLM50CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Program Files/eagle/lbr/con-amp-quick.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/frames.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/holes.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/led.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/resistor.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/speaker.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/switch-dil.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/switch.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/testpad.lbr"
+UsedLibrary="C:/Program Files/eagle/lbr/transistor.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="492 231 1091 630"
+State=1
+Number=0
+
+[Desktop]
+Screen="1600 900"
+Window="Win_1"
